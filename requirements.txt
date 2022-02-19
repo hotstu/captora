@@ -1,0 +1,48 @@
+altgraph==0.17.2
+build==0.7.0
+certifi==2021.10.8
+click==8.0.4
+colorama==0.4.4
+coloredlogs==15.0.1
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+evdev==1.4.0
+Flask==2.0.3
+Flask-JSONRPC==2.1.0
+fonttools==4.25.0
+humanfriendly==10.0
+importlib-metadata==4.11.1
+itsdangerous==2.1.0
+Jinja2==3.0.3
+keyboard==0.13.5
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1612282414123/work
+lxml==4.7.1
+MarkupSafe==2.1.0
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1634667019719/work
+mouse==0.7.1
+munkres==1.1.4
+mypy-extensions==0.4.3
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1626648382091/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+packaging==21.3
+pep517==0.12.0
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1602493094547/work
+pyinstaller==4.9
+pyinstaller-hooks-contrib==2022.2
+pynput==1.7.6
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1642753572664/work
+PyQt5==5.12.3
+PyQt5_sip==4.19.18
+PyQtChart==5.12
+PyQtWebEngine==5.12.1
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-xlib==0.31
+PyUserInput==0.1.11
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tomli==2.0.1
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1610094704591/work
+tqdm==4.62.3
+typeguard==2.12.1
+typing-inspect==0.7.1
+typing_extensions==4.1.1
+Werkzeug==2.0.3
+zipp==3.7.0
